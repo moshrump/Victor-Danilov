@@ -22,6 +22,10 @@
   <img align="center" width="49%" src="./topics.svg" />
 </a>
 
+<a href="https://github.com/Victor-Danilov">
+  <img align="center" width="49%" src="./metrics.plugin.steam.full.svg" />
+</a>
+
 <!--
 <a href="https://github.com/Victor-Danilov">
   <img align="center" width="49%" src="./music.svg" />
